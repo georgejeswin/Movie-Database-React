@@ -159,6 +159,10 @@ section {
   .carousel-img {
     max-height: 110px;
     overflow-y: scroll;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    object-fit: contain;
   }
 }
 .result-img {
